@@ -1,6 +1,5 @@
 - 👋 Hi, I’m John-Paul Swaine
-- 👀 I’m interested in learning how to create webpages (front end and back end)
-- 🌱 I’m currently learning software development including html, javascript, css, react
+- 👀 I’m interested in a career within software development whether that is front-end, back-end, or full-stack
 - ⚡ Fun fact: I met Tim Roth (Pulp Fiction, Reservoir Dogs etc) when filming as an extra for Tin Star: Liverpool (the 3rd season of Tin Star)
 - Hobby: I am interested in Acting, Gaming and Baking outside of any work related activities.
   
